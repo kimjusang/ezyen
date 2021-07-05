@@ -27,7 +27,10 @@ function HeroSection() {
       </HeroBg>
       <HeroContent>
         <HeroH1>Easy Banking Easy Life</HeroH1>
-        <HeroP>지금 가입하시고 첫 결재시 20만원의 혜택을 누리세요!</HeroP>
+        <HeroP>
+          Sign up for a new account today and receive ¥9,000 in credit towards
+          your next payment.
+        </HeroP>
         <HeroBtnWrapper>
           <Button
             to='signup'
@@ -41,7 +44,7 @@ function HeroSection() {
             onMouseEnter={onHover}
             onMouseLeave={onHover}
           >
-            더 알아보기 {hover ? <ArrowForward /> : <ArrowRight />}
+            Get Started {hover ? <ArrowForward /> : <ArrowRight />}
           </Button>
         </HeroBtnWrapper>
       </HeroContent>

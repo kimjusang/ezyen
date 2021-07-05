@@ -39,7 +39,7 @@ const Navbar = ({ toggle }) => {
         <Nav scrollNav={scrollNav}>
           <NavbarContainer>
             <NavLogo onClick={toggleHome} to='/'>
-              EZMONEY
+              EZYEN
             </NavLogo>
             <MobileIcon onClick={toggle}>
               <FaBars />
@@ -95,7 +95,7 @@ const Navbar = ({ toggle }) => {
               </NavItem>
             </NavMenu>
             <NavBtn>
-              <NavBtnLink to='/signin'>회원가입</NavBtnLink>
+              <NavBtnLink to='/signin'>Sign In</NavBtnLink>
             </NavBtn>
           </NavbarContainer>
         </Nav>
