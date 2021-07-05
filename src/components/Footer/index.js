@@ -68,9 +68,9 @@ const Footer = () => {
         <SocialMedia>
           <SocialMediaWrap>
             <SocialLogo to='/' onClick={toggleHome}>
-              EZYEN
+              EZMONEY
             </SocialLogo>
-            <WebsiteRights>EZYEN © 2020 All rights reserved.</WebsiteRights>
+            <WebsiteRights>EZMONEY © 2020 All rights reserved.</WebsiteRights>
             <SocialIcons>
               <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
                 <FaFacebook />

@@ -9,33 +9,35 @@ import {
   ServicesCard,
   ServicesIcon,
   ServicesH2,
-  ServicesP
+  ServicesP,
 } from './ServicesElements';
 
 const Services = () => {
   return (
     <ServicesContainer id='services'>
-      <ServicesH1>Our Services</ServicesH1>
+      <ServicesH1>제공 서비스</ServicesH1>
       <ServicesWrapper>
         <ServicesCard>
           <ServicesIcon src={Icon1} />
-          <ServicesH2>Reduce Expenses</ServicesH2>
+          <ServicesH2>소비 절약</ServicesH2>
           <ServicesP>
-            We help reduce your fees and increase your overall revenue.
+            불필요한 고액의 수수료를 절약하고 전체적인 소득증대 효과를 보실 수
+            있습니다.
           </ServicesP>
         </ServicesCard>
         <ServicesCard>
           <ServicesIcon src={Icon2} />
-          <ServicesH2>Virtual Offices</ServicesH2>
+          <ServicesH2>24시간 상담센터</ServicesH2>
           <ServicesP>
-            You can access our platform online anywhere in the world.
+            시간 제약이 많은 은행업무를 EZMONEY는 24시간 가능하게 합니다.{' '}
           </ServicesP>
         </ServicesCard>
         <ServicesCard>
           <ServicesIcon src={Icon3} />
-          <ServicesH2>Premium Benefits</ServicesH2>
+          <ServicesH2>프리미엄 혜택</ServicesH2>
           <ServicesP>
-            Unlock our special membership card that returns 5% cash back.
+            행사기간 중 가입 하시면 즉시 프리미엄 멤버쉽 혜택을 통해 5% 캐쉬백을
+            드립니다.
           </ServicesP>
         </ServicesCard>
       </ServicesWrapper>
