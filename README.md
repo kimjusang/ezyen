@@ -6,7 +6,7 @@ Please click the link and experience all the features!
 
 ## Quick Previews
 
-### Homepage
+### Homepage (Video background)
 
 ![1](https://user-images.githubusercontent.com/57928024/124473663-8f329d00-ddda-11eb-9f12-860b53093b9e.PNG)
 
