@@ -2,7 +2,7 @@
 
 This is a fully responsive React website using Styled Components and Smooth Scroll.
 
-Please click the link and experience all the features!
+Technical stacks: HTML/CSS/JavaScript, React.js, Styled Components, and Smooth Scroll.
 
 ## Quick Previews
 
