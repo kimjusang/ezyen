@@ -1,8 +1,8 @@
 # PLEASE VISIT [EZYEN](https://ezyen.netlify.app/).
 
-This is a fully responsive 2021 design website using recent React technologies.
-
-Technical stacks: HTML/CSS/JavaScript, React.js, Styled Components, and Smooth Scroll.
+- A fully screen sie responsive website using Styled Components and Smooth Scroll
+- Followed the most recent web design trends in 2021
+- Technical stacks: HTML/CSS/JavaScript, React.js, Styled Components, and Smooth Scroll
 
 ## Quick Previews
 
