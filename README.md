@@ -1,8 +1,6 @@
 # PLEASE VISIT [EZYEN](https://ezyen.netlify.app/).
 
 - A fully screen size responsive website using Styled Components and Smooth Scroll
-- Followed the most recent web design trends in 2021
-- Technical stacks: HTML/CSS/JavaScript, React.js, Styled Components, and Smooth Scroll
 
 ## Quick Previews
 
